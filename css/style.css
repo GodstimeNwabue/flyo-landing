@@ -7,17 +7,17 @@
 }
 
 .productive-section {
-    background: url('./img/bg-curve-desktop.svg') no-repeat center;     
+    background: url(/img/bg-curve-desktop.svg') no-repeat center;     
     background-size: cover;
 }
 
 .header-section {
-    background: url(./img/02iOkvupvcqZ5Ybx270ZmGP-27..v1646061370.jpg) no-repeat center ;
+    background: url(/img/02iOkvupvcqZ5Ybx270ZmGP-27..v1646061370.jpg) no-repeat center ;
     background-size: cover;
 }
 
 .talk-section {
-    background: url(./img/contact-us-nav.jpg) no-repeat center;
+    background: url(/img/contact-us-nav.jpg) no-repeat center;
     background-size: cover;
 }
 
