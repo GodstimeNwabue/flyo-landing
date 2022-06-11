@@ -22,3 +22,9 @@
     opacity: 1;
 }
 
+/*Laptop view Important*/
+@media (min-width: 1024px) {
+    .text {
+        width: 70%;
+    }
+}
