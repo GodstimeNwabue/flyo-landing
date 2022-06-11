@@ -19,5 +19,6 @@
 .talk-section {
     background: url(../img/contact-us-nav.jpg) no-repeat center;
     background-size: cover;
+    opacity: 0.9;
 }
 
