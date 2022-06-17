@@ -6,11 +6,6 @@
     background-color: hsl(238, 22%, 44%);
 }
 
-.talk-section {
-    background: url(../img/istockphoto-639637280-170667a.jpg) no-repeat center;
-    background-size: cover;
-    opacity: 1;
-}
 
 /*Laptop view Important*/
 @media (min-width: 1024px) {
