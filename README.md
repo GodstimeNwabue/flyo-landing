@@ -1,7 +1,5 @@
 # flyo-landing
 
-# flyo-landing
-
 ![](./result/godstimenwabue.github.io_flyo-landing_.png)
 
 ## Welcome! 👋
